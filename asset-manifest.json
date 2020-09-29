@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/js-lesson-4-chat/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/js-lesson-4-chat/static/js/main.d8f0ca7f.chunk.js",
+    "main.js.map": "/js-lesson-4-chat/static/js/main.d8f0ca7f.chunk.js.map",
+    "runtime-main.js": "/js-lesson-4-chat/static/js/runtime-main.2abc3676.js",
+    "runtime-main.js.map": "/js-lesson-4-chat/static/js/runtime-main.2abc3676.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/js-lesson-4-chat/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.e629aeb7.chunk.js": "/js-lesson-4-chat/static/js/2.e629aeb7.chunk.js",
+    "static/js/2.e629aeb7.chunk.js.map": "/js-lesson-4-chat/static/js/2.e629aeb7.chunk.js.map",
+    "index.html": "/js-lesson-4-chat/index.html",
+    "precache-manifest.0dbe88cbad85ef75168fbf2fccce3c38.js": "/js-lesson-4-chat/precache-manifest.0dbe88cbad85ef75168fbf2fccce3c38.js",
+    "service-worker.js": "/js-lesson-4-chat/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/js-lesson-4-chat/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/js-lesson-4-chat/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e629aeb7.chunk.js.LICENSE.txt": "/js-lesson-4-chat/static/js/2.e629aeb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2abc3676.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.e629aeb7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d8f0ca7f.chunk.js"
+  ]
+}
