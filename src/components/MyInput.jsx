@@ -17,7 +17,11 @@ export default function MyInput({ handlePostMessage, chatRoom }) {
 
               return (
                 <li className="list-group-item text-wrap" key={key}>
-                  {payload.message}
+                  {typeof payload.message === "string" ? (
+                    payload.message
+                  ) : (
+                    <span>Something went wrong</span>
+                  )}
                 </li>
               );
             })}

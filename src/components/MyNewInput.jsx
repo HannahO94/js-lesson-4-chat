@@ -3,12 +3,10 @@ import React from "react";
 export default function MyInput({ chatRoomList }) {
   return (
     <div>
-      <button className="btn btn-primary" onClick={handlePostMessage}>
-        Send message
-      </button>
+      <button className="btn btn-primary">Send message</button>
 
       <ul className="list-group mt-3 mx-auto" style={{ width: "50vw" }}>
-        {chatRoom.messages &&
+        {/* {chatRoom.messages &&
           Object.entries(chatRoom.messages)
             .reverse()
             .map((item) => {
@@ -19,8 +17,8 @@ export default function MyInput({ chatRoomList }) {
                 <li className="list-group-item text-wrap" key={key}>
                   {payload.message}
                 </li>
-              );
-            })}
+              ); */}
+        {/* })} */}
       </ul>
     </div>
   );
